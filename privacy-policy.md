@@ -56,4 +56,4 @@ The app is not directed at children under 13 and does not knowingly collect thei
 Connections to the app's server are encrypted (HTTPS with a pinned certificate). The server keeps only the data described here, for the time given here.
 
 ## 8. Changes
-Significant changes to this policy will be announced in the app. The current version is always in Settings → Legal.
+Significant changes to this policy will be announced in the app. The current version is always in Settings → Legal and at github.com/CrazyPlayerM100/Wiesz-Kiedy/blob/main/privacy-policy.md.

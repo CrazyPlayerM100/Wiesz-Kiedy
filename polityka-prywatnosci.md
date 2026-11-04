@@ -56,4 +56,4 @@ Aplikacja nie jest skierowana do dzieci poniżej 13 lat i nie zbiera świadomie 
 Połączenia z serwerem aplikacji są szyfrowane (HTTPS z przypiętym certyfikatem). Na serwerze przechowywane są tylko dane opisane w tej polityce, przez czas w niej wskazany.
 
 ## 8. Zmiany
-O istotnych zmianach tej polityki poinformujemy w aplikacji. Aktualna wersja jest zawsze dostępna w Ustawieniach → Informacje prawne.
+O istotnych zmianach tej polityki poinformujemy w aplikacji. Aktualna wersja jest zawsze dostępna w Ustawieniach → Informacje prawne oraz pod adresem github.com/CrazyPlayerM100/Wiesz-Kiedy/blob/main/polityka-prywatnosci.md.
