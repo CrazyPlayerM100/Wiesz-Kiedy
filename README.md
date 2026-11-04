@@ -4,9 +4,9 @@ Aplikacja z rozkładami jazdy i pojazdami komunikacji miejskiej na żywo w ponad
 A public transport app with timetables and live vehicles for over 30 Polish cities.
 
 ## Dokumenty / Documents
-- [Polityka prywatności](polityka-prywatnosci) · [Privacy policy](privacy-policy)
-- [Regulamin](regulamin) · [Terms of use](terms)
-- [Źródła danych i licencje](zrodla-danych) · [Data sources and licences](data-sources)
+- [Polityka prywatności](polityka-prywatnosci.md) · [Privacy policy](privacy-policy.md)
+- [Regulamin](regulamin.md) · [Terms of use](terms.md)
+- [Źródła danych i licencje](zrodla-danych.md) · [Data sources and licences](data-sources.md)
 
 ## Kontakt / Contact
 support.ngmastudios@gmail.com
