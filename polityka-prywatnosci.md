@@ -42,6 +42,7 @@ Statystyki opóźnień linii i przystanków są liczone na serwerze wyłącznie 
 ## 4. Komu przekazujemy dane
 Dane nie są sprzedawane ani udostępniane w celach marketingowych. Odbiorcami (w zakresie opisanym wyżej) są:
 - dostawca serwera: Oracle Cloud (centrum danych w Unii Europejskiej, Frankfurt), działający jako podmiot przetwarzający,
+- Cloudflare, Inc. (USA), przez którego sieć przechodzą połączenia z serwerem aplikacji (wieszkiedy.pl), działający jako podmiot przetwarzający; widzi adres IP i przekazywane dane w zakresie potrzebnym do ich dostarczenia i ochrony przed atakami; przekazanie do USA na podstawie decyzji Komisji Europejskiej w sprawie EU-US Data Privacy Framework, w którym Cloudflare uczestniczy,
 - usługi, z którymi łączy się Twój telefon: OpenFreeMap (mapa), komoot GmbH (Photon), OpenStreetMap Foundation (Nominatim), serwery przewoźników i dostawców danych transportowych,
 - Google (usługi lokalizacji Google Play i kopia zapasowa Androida, jeśli z nich korzystasz).
 OpenStreetMap Foundation działa w Wielkiej Brytanii, dla której Komisja Europejska wydała decyzję stwierdzającą odpowiedni stopień ochrony danych.
@@ -53,7 +54,7 @@ Masz prawo do dostępu do danych, ich sprostowania, usunięcia, ograniczenia prz
 Aplikacja nie jest skierowana do dzieci poniżej 13 lat i nie zbiera świadomie ich danych.
 
 ## 7. Bezpieczeństwo
-Połączenia z serwerem aplikacji są szyfrowane (HTTPS z przypiętym certyfikatem). Na serwerze przechowywane są tylko dane opisane w tej polityce, przez czas w niej wskazany.
+Połączenia z serwerem aplikacji są szyfrowane (HTTPS). Na serwerze przechowywane są tylko dane opisane w tej polityce, przez czas w niej wskazany.
 
 ## 8. Zmiany
-O istotnych zmianach tej polityki poinformujemy w aplikacji. Aktualna wersja jest zawsze dostępna w Ustawieniach → Informacje prawne oraz pod adresem github.com/CrazyPlayerM100/Wiesz-Kiedy/blob/main/polityka-prywatnosci.md.
+O istotnych zmianach tej polityki poinformujemy w aplikacji. Aktualna wersja jest zawsze dostępna w Ustawieniach → Informacje prawne oraz pod adresem wieszkiedy.pl/polityka-prywatnosci.

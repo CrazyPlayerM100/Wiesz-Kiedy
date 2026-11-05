@@ -42,6 +42,7 @@ Line and stop delay statistics are computed on the server only from the operator
 ## 4. Who receives data
 No data is sold or shared for marketing. Recipients (to the extent described above) are:
 - the server provider: Oracle Cloud (data centre in the European Union, Frankfurt), acting as a processor,
+- Cloudflare, Inc. (USA), whose network carries the connections to the app's server (wieszkiedy.pl), acting as a processor; it sees the IP address and the data passed to the extent needed to deliver it and protect against attacks; transfer to the USA on the basis of the European Commission's EU-US Data Privacy Framework decision, in which Cloudflare takes part,
 - the services your phone connects to: OpenFreeMap (map), komoot GmbH (Photon), OpenStreetMap Foundation (Nominatim), transit operators and transit data providers,
 - Google (Google Play location services and Android backup, if you use them).
 The OpenStreetMap Foundation is in the United Kingdom, which the European Commission has found to ensure an adequate level of data protection.
@@ -53,7 +54,7 @@ You have the right of access, rectification, erasure, restriction, portability, 
 The app is not directed at children under 13 and does not knowingly collect their data.
 
 ## 7. Security
-Connections to the app's server are encrypted (HTTPS with a pinned certificate). The server keeps only the data described here, for the time given here.
+Connections to the app's server are encrypted (HTTPS). The server keeps only the data described here, for the time given here.
 
 ## 8. Changes
-Significant changes to this policy will be announced in the app. The current version is always in Settings → Legal and at github.com/CrazyPlayerM100/Wiesz-Kiedy/blob/main/privacy-policy.md.
+Significant changes to this policy will be announced in the app. The current version is always in Settings → Legal and at wieszkiedy.pl/privacy-policy.
