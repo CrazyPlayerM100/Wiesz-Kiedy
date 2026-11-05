@@ -3,7 +3,7 @@
 Effective from 5 November 2026. These terms govern the use of the Wiesz Kiedy mobile app, under the Polish Act of 18 July 2002 on providing services by electronic means.
 
 ## 1. Provider
-The provider is the author of the Wiesz Kiedy app (Mateusz Cieślik). Contact: support.ngmastudios@gmail.com.
+The provider is the author of the Wiesz Kiedy app (Mateusz Cieślik). Contact: support@wieszkiedy.pl.
 
 ## 2. What the app is
 Wiesz Kiedy is a free public transport information app. It offers:
@@ -36,7 +36,7 @@ To the extent the law allows, the provider is not liable for the results of rely
 When using guidance and the map, take care and follow traffic rules. Do not use your phone in a way that puts anyone at risk.
 
 ## 6. Complaints
-Send complaints and feedback to support.ngmastudios@gmail.com. Describe the problem and say how to reach you. We will answer within 14 days.
+Send complaints and feedback to support@wieszkiedy.pl. Describe the problem and say how to reach you. We will answer within 14 days.
 
 ## 7. Privacy
 How data is handled is described in the Privacy policy (Settings → Legal).

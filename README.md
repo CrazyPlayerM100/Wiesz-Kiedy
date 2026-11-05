@@ -11,4 +11,4 @@ A public transport app with timetables and live vehicles for over 30 Polish citi
 Strona / Website: https://wieszkiedy.pl
 
 ## Kontakt / Contact
-support.ngmastudios@gmail.com
+support@wieszkiedy.pl
