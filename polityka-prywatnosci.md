@@ -3,7 +3,7 @@
 Obowiązuje od 5 listopada 2026 r.
 
 ## 1. Kto odpowiada za Twoje dane
-Administratorem danych jest autor aplikacji Wiesz Kiedy (Mateusz Cieślik). Kontakt we wszystkich sprawach dotyczących prywatności: support@wieszkiedy.pl.
+Administratorem danych jest autor aplikacji Wiesz Kiedy (Anna Cybulska-Cieślik). Kontakt we wszystkich sprawach dotyczących prywatności: support@wieszkiedy.pl.
 
 ## 2. Najważniejsze w skrócie
 - Aplikacja nie wymaga konta, nie wyświetla reklam, nie używa narzędzi analitycznych ani śledzących i nie sprzedaje żadnych danych.

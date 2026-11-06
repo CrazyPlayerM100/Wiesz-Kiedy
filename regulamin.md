@@ -3,7 +3,7 @@
 Obowiązuje od 5 listopada 2026 r. Regulamin określa zasady korzystania z aplikacji mobilnej Wiesz Kiedy, zgodnie z ustawą z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
 ## 1. Usługodawca
-Usługodawcą jest autor aplikacji Wiesz Kiedy (Mateusz Cieślik), kontakt: support@wieszkiedy.pl.
+Usługodawcą jest autor aplikacji Wiesz Kiedy (Anna Cybulska-Cieślik), kontakt: support@wieszkiedy.pl.
 
 ## 2. Czym jest aplikacja
 Wiesz Kiedy to bezpłatna aplikacja z informacją o komunikacji miejskiej: rozkłady jazdy, odjazdy z przystanków, pozycje pojazdów na żywo, planowanie podróży, prowadzenie w trakcie podróży, komunikaty o utrudnieniach i statystyki punktualności. Aplikacja nie sprzedaje biletów i nie pośredniczy w żadnych płatnościach.

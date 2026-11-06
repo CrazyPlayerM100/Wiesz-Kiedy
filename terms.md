@@ -3,7 +3,7 @@
 Effective from 5 November 2026. These terms govern the use of the Wiesz Kiedy mobile app, under the Polish Act of 18 July 2002 on providing services by electronic means.
 
 ## 1. Provider
-The provider is the author of the Wiesz Kiedy app (Mateusz Cieślik). Contact: support@wieszkiedy.pl.
+The provider is the author of the Wiesz Kiedy app (Anna Cybulska-Cieślik). Contact: support@wieszkiedy.pl.
 
 ## 2. What the app is
 Wiesz Kiedy is a free public transport information app. It offers:

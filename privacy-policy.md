@@ -3,7 +3,7 @@
 Effective from 5 November 2026.
 
 ## 1. Who is responsible for your data
-The controller is the author of the Wiesz Kiedy app (Mateusz Cieślik). Contact for anything about privacy: support@wieszkiedy.pl.
+The controller is the author of the Wiesz Kiedy app (Anna Cybulska-Cieślik). Contact for anything about privacy: support@wieszkiedy.pl.
 
 ## 2. In short
 - No account, no ads, no analytics or tracking tools, and no data is ever sold.
